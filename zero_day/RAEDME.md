@@ -1,5 +1,5 @@
 # This is my zero day repo
 ~~~~
-welcome to 
+welcome to
 my new repo
 ~~~~
